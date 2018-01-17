@@ -1,0 +1,1651 @@
+ INFO global: Vagrant version: 2.0.1
+ INFO global: Ruby version: 2.4.2
+ INFO global: RubyGems version: 2.6.13
+ INFO global: VAGRANT_DETECTED_OS="cygwin"
+ INFO global: VAGRANT_EXECUTABLE="C:\\HashiCorp\\Vagrant\\embedded\\gems\\gems\\vagrant-2.0.1\\bin\\vagrant"
+ INFO global: VAGRANT_HOME="E:\\Vagrant"
+ INFO global: VAGRANT_INSTALLER_EMBEDDED_DIR="C:\\HashiCorp\\Vagrant\\embedded"
+ INFO global: VAGRANT_INSTALLER_ENV="1"
+ INFO global: VAGRANT_INSTALLER_VERSION="2"
+ INFO global: VAGRANT_LOG="debug"
+ INFO global: VAGRANT_OLD_ENV_="::=::\\"
+ INFO global: VAGRANT_OLD_ENV_ACLOCAL_PATH="C:\\Program Files\\Git\\mingw64\\share\\aclocal;C:\\Program Files\\Git\\usr\\share\\aclocal"
+ INFO global: VAGRANT_OLD_ENV_ALLUSERSPROFILE="C:\\ProgramData"
+ INFO global: VAGRANT_OLD_ENV_APPDATA="C:\\Users\\*****\\AppData\\Roaming"
+ INFO global: VAGRANT_OLD_ENV_asl.log="Destination=file"
+ INFO global: VAGRANT_OLD_ENV_COMMONPROGRAMFILES="C:\\Program Files\\Common Files"
+ INFO global: VAGRANT_OLD_ENV_CommonProgramFiles(x86)="C:\\Program Files (x86)\\Common Files"
+ INFO global: VAGRANT_OLD_ENV_CommonProgramW6432="C:\\Program Files\\Common Files"
+ INFO global: VAGRANT_OLD_ENV_COMPUTERNAME="******"
+ INFO global: VAGRANT_OLD_ENV_COMSPEC="C:\\WINDOWS\\system32\\cmd.exe"
+ INFO global: VAGRANT_OLD_ENV_CONFIG_SITE="C:/Program Files/Git/mingw64/etc/config.site"
+ INFO global: VAGRANT_OLD_ENV_DISPLAY="needs-to-be-defined"
+ INFO global: VAGRANT_OLD_ENV_EXEPATH="C:\\Program Files\\Git"
+ INFO global: VAGRANT_OLD_ENV_FPS_BROWSER_APP_PROFILE_STRING="Internet Explorer"
+ INFO global: VAGRANT_OLD_ENV_FPS_BROWSER_USER_PROFILE_STRING="Default"
+ INFO global: VAGRANT_OLD_ENV_FP_NO_HOST_CHECK="NO"
+ INFO global: VAGRANT_OLD_ENV_HOME="C:\\Users\\*****"
+ INFO global: VAGRANT_OLD_ENV_HOMEDRIVE="C:"
+ INFO global: VAGRANT_OLD_ENV_HOMEPATH="\\Users\\*****"
+ INFO global: VAGRANT_OLD_ENV_HOSTNAME="*****"
+ INFO global: VAGRANT_OLD_ENV_INFOPATH="C:\\Program Files\\Git\\usr\\local\\info;C:\\Program Files\\Git\\usr\\share\\info;C:\\Program Files\\Git\\usr\\info;C:\\Program Files\\Git\\share\\info"
+ INFO global: VAGRANT_OLD_ENV_LC_ALL="C"
+ INFO global: VAGRANT_OLD_ENV_LOCALAPPDATA="C:\\Users\\*****\\AppData\\Local"
+ INFO global: VAGRANT_OLD_ENV_LOGONSERVER="\\\\*********"
+ INFO global: VAGRANT_OLD_ENV_MANPATH="C:\\Program Files\\Git\\mingw64\\share\\man;C:\\Program Files\\Git\\usr\\local\\man;C:\\Program Files\\Git\\usr\\share\\man;C:\\Program Files\\Git\\usr\\man;C:\\Program Files\\Git\\share\\man"
+ INFO global: VAGRANT_OLD_ENV_MINGW_CHOST="x86_64-w64-mingw32"
+ INFO global: VAGRANT_OLD_ENV_MINGW_PACKAGE_PREFIX="mingw-w64-x86_64"
+ INFO global: VAGRANT_OLD_ENV_MINGW_PREFIX="C:/Program Files/Git/mingw64"
+ INFO global: VAGRANT_OLD_ENV_MOZ_PLUGIN_PATH="C:\\Program Files (x86)\\Foxit Software\\Foxit Reader\\plugins\\"
+ INFO global: VAGRANT_OLD_ENV_MSYSTEM="MINGW64"
+ INFO global: VAGRANT_OLD_ENV_MSYSTEM_CARCH="x86_64"
+ INFO global: VAGRANT_OLD_ENV_MSYSTEM_CHOST="x86_64-w64-mingw32"
+ INFO global: VAGRANT_OLD_ENV_MSYSTEM_PREFIX="C:/Program Files/Git/mingw64"
+ INFO global: VAGRANT_OLD_ENV_NUMBER_OF_PROCESSORS="4"
+ INFO global: VAGRANT_OLD_ENV_OneDrive="C:\\Users\\*****\\OneDrive"
+ INFO global: VAGRANT_OLD_ENV_ORIGINAL_PATH="C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\*****\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\OpenCL SDK\\2.0\\bin\\x86;C:\\Program Files (x86)\\Intel\\OpenCL SDK\\2.0\\bin\\x64;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files (x86)\\AMD\\ATI.ACE\\Core-Static;D:\\php;C:\\ProgramData\\ComposerSetup\\bin;C:\\Program Files\\TortoiseGit\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs;C:\\Program Files (x86)\\Skype\\Phone;C:\\HashiCorp\\Vagrant\\bin;C:\\Users\\*****\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\*****\\AppData\\Roaming\\npm;C:\\Users\\*****\\AppData\\Local\\Android\\sdk\\platform-tools;C:\\Program Files\\Microsoft VS Code\\bin"
+ INFO global: VAGRANT_OLD_ENV_ORIGINAL_TEMP="C:/Users/*****/AppData/Local/Temp"
+ INFO global: VAGRANT_OLD_ENV_ORIGINAL_TMP="C:/Users/*****/AppData/Local/Temp"
+ INFO global: VAGRANT_OLD_ENV_OS="Windows_NT"
+ INFO global: VAGRANT_OLD_ENV_PATH="C:\\Users\\*****\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\local\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Users\\*****\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client;C:\\Program Files\\Intel\\iCLS Client;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0;C:\\Program Files (x86)\\Intel\\OpenCL SDK\\2.0\\bin\\x86;C:\\Program Files (x86)\\Intel\\OpenCL SDK\\2.0\\bin\\x64;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files (x86)\\AMD\\ATI.ACE\\Core-Static;D:\\php;C:\\ProgramData\\ComposerSetup\\bin;C:\\Program Files\\TortoiseGit\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs;C:\\Program Files (x86)\\Skype\\Phone;C:\\HashiCorp\\Vagrant\\bin;C:\\Users\\*****\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\*****\\AppData\\Roaming\\npm;C:\\Users\\*****\\AppData\\Local\\Android\\sdk\\platform-tools;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\Git\\usr\\bin\\vendor_perl;C:\\Program Files\\Git\\usr\\bin\\core_perl"
+ INFO global: VAGRANT_OLD_ENV_PATHEXT=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+ INFO global: VAGRANT_OLD_ENV_PKG_CONFIG_PATH="C:\\Program Files\\Git\\mingw64\\lib\\pkgconfig;C:\\Program Files\\Git\\mingw64\\share\\pkgconfig"
+ INFO global: VAGRANT_OLD_ENV_PLINK_PROTOCOL="ssh"
+ INFO global: VAGRANT_OLD_ENV_PRINTER="HP LaserJet 200 color MFP M276 PCL 6"
+ INFO global: VAGRANT_OLD_ENV_PROCESSOR_ARCHITECTURE="AMD64"
+ INFO global: VAGRANT_OLD_ENV_PROCESSOR_IDENTIFIER="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"
+ INFO global: VAGRANT_OLD_ENV_PROCESSOR_LEVEL="6"
+ INFO global: VAGRANT_OLD_ENV_PROCESSOR_REVISION="3a09"
+ INFO global: VAGRANT_OLD_ENV_ProgramData="C:\\ProgramData"
+ INFO global: VAGRANT_OLD_ENV_PROGRAMFILES="C:\\Program Files"
+ INFO global: VAGRANT_OLD_ENV_ProgramFiles(x86)="C:\\Program Files (x86)"
+ INFO global: VAGRANT_OLD_ENV_ProgramW6432="C:\\Program Files"
+ INFO global: VAGRANT_OLD_ENV_PS1="\\[\\033]0;$TITLEPREFIX:${PWD//[^[:ascii:]]/?}\\007\\]\\n\\[\\033[32m\\]\\u@\\h \\[\\033[35m\\]$MSYSTEM \\[\\033[33m\\]\\w\\[\\033[36m\\]`__git_ps1`\\[\\033[0m\\]\\n$ "
+ INFO global: VAGRANT_OLD_ENV_PSModulePath="C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\"
+ INFO global: VAGRANT_OLD_ENV_PUBLIC="C:\\Users\\Public"
+ INFO global: VAGRANT_OLD_ENV_PWD="D:/code/Homestead"
+ INFO global: VAGRANT_OLD_ENV_SESSIONNAME="Console"
+ INFO global: VAGRANT_OLD_ENV_SHELL="C:\\Program Files\\Git\\usr\\bin\\bash"
+ INFO global: VAGRANT_OLD_ENV_SHLVL="1"
+ INFO global: VAGRANT_OLD_ENV_SSH_ASKPASS="C:/Program Files/Git/mingw64/libexec/git-core/git-gui--askpass"
+ INFO global: VAGRANT_OLD_ENV_SYSTEMDRIVE="C:"
+ INFO global: VAGRANT_OLD_ENV_SYSTEMROOT="C:\\WINDOWS"
+ INFO global: VAGRANT_OLD_ENV_TEMP="C:\\Users\\*****\\AppData\\Local\\Temp"
+ INFO global: VAGRANT_OLD_ENV_TERM="xterm"
+ INFO global: VAGRANT_OLD_ENV_TMP="C:\\Users\\*****\\AppData\\Local\\Temp"
+ INFO global: VAGRANT_OLD_ENV_TMPDIR="C:\\Users\\*****\\AppData\\Local\\Temp"
+ INFO global: VAGRANT_OLD_ENV_USERDOMAIN="******"
+ INFO global: VAGRANT_OLD_ENV_USERDOMAIN_ROAMINGPROFILE="******"
+ INFO global: VAGRANT_OLD_ENV_USERNAME="*****"
+ INFO global: VAGRANT_OLD_ENV_USERPROFILE="C:\\Users\\*****"
+ INFO global: VAGRANT_OLD_ENV_VAGRANT_DETECTED_OS="cygwin"
+ INFO global: VAGRANT_OLD_ENV_VAGRANT_HOME="E:\\Vagrant"
+ INFO global: VAGRANT_OLD_ENV_VAGRANT_PREFER_SYSTEM_BIN="1"
+ INFO global: VAGRANT_OLD_ENV_VBOX_MSI_INSTALL_PATH="C:\\Program Files\\Oracle\\VirtualBox\\"
+ INFO global: VAGRANT_OLD_ENV_WINDIR="C:\\WINDOWS"
+ INFO global: VAGRANT_OLD_ENV_windows_tracing_flags="3"
+ INFO global: VAGRANT_OLD_ENV_windows_tracing_logfile="C:\\BVTBin\\Tests\\installpackage\\csilogfile.log"
+ INFO global: VAGRANT_OLD_ENV__="C:/HashiCorp/Vagrant/bin/vagrant"
+ INFO global: VAGRANT_PREFER_SYSTEM_BIN="1"
+ INFO global: Plugins:
+ INFO global:   - vagrant-bindfs = [installed: 1.0.5 constraint: > 0]
+ INFO global:   - vagrant-hostmanager = [installed: 1.8.5 constraint: > 0]
+ INFO global:   - vagrant-hostsupdater = [installed: 1.0.2 constraint: > 0]
+ INFO global:   - vagrant-share = [installed: 1.1.6 constraint: > 0]
+ INFO global:   - vagrant-winnfsd = [installed: 1.3.1 constraint: > 0]
+DEBUG bundler: Current generated plugin dependency list: [<Gem::Dependency type=:runtime name="vagrant-bindfs" requirements="> 0">, <Gem::Dependency type=:runtime name="vagrant-hostmanager" requirements="> 0">, <Gem::Dependency type=:runtime name="vagrant-hostsupdater" requirements="> 0">, <Gem::Dependency type=:runtime name="vagrant-share" requirements="> 0">, <Gem::Dependency type=:runtime name="vagrant-winnfsd" requirements="> 0">]
+DEBUG bundler: Generating new builtin set instance.
+DEBUG bundler: Generating new plugin set instance. Skip gems - []
+DEBUG bundler: Activating solution set: ["vagrant-bindfs-1.0.10", "vagrant-hostmanager-1.8.7", "vagrant-hostsupdater-1.0.2", "ruby_dep-1.3.1", "erubis-2.7.0", "builder-3.2.3", "gyoku-1.3.1", "nori-2.6.0", "multi_json-1.12.2", "little-plugger-1.1.4", "logging-2.2.2", "rubyntlm-0.6.2", "httpclient-2.8.3", "ffi-1.9.18", "gssapi-1.2.0", "winrm-2.2.3", "rubyzip-1.2.1", "winrm-fs-1.1.0", "winrm-elevated-1.1.0", "wdm-0.1.1", "netrc-0.11.0", "mime-types-data-3.2016.0521", "mime-types-3.1", "unf_ext-0.0.7.4", "unf-0.1.4", "domain_name-0.5.20170404", "http-cookie-1.0.3", "rest-client-2.0.2", "rb-kqueue-0.2.5", "net-ssh-4.1.0", "net-scp-1.2.1", "net-sftp-2.1.2", "log4r-1.1.10", "hashicorp-checkpoint-0.1.4", "rb-inotify-0.9.10", "rb-fsevent-0.10.2", "listen-3.1.5", "i18n-0.8.0", "childprocess-0.6.3", "vagrant-2.0.1", "vagrant-share-1.1.9", "vagrant-winnfsd-1.4.0"]
+DEBUG bundler: Activating gem vagrant-bindfs-1.0.10
+DEBUG bundler: Activating gem vagrant-hostmanager-1.8.7
+DEBUG bundler: Activating gem vagrant-hostsupdater-1.0.2
+DEBUG bundler: Activating gem vagrant-share-1.1.9
+DEBUG bundler: Activating gem vagrant-winnfsd-1.4.0
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/box/plugin.rb
+ INFO manager: Registered plugin: box command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/cap/plugin.rb
+ INFO manager: Registered plugin: cap command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/destroy/plugin.rb
+ INFO manager: Registered plugin: destroy command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/global-status/plugin.rb
+ INFO manager: Registered plugin: global-status command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/halt/plugin.rb
+ INFO manager: Registered plugin: halt command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/help/plugin.rb
+ INFO manager: Registered plugin: help command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/init/plugin.rb
+ INFO manager: Registered plugin: init command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/list-commands/plugin.rb
+ INFO manager: Registered plugin: list-commands command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/login/plugin.rb
+ INFO manager: Registered plugin: vagrant-login
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/package/plugin.rb
+ INFO manager: Registered plugin: package command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/plugin/plugin.rb
+ INFO manager: Registered plugin: plugin command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/port/plugin.rb
+ INFO manager: Registered plugin: port command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/powershell/plugin.rb
+ INFO manager: Registered plugin: powershell command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/provider/plugin.rb
+ INFO manager: Registered plugin: provider command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/provision/plugin.rb
+ INFO manager: Registered plugin: provision command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/push/plugin.rb
+ INFO manager: Registered plugin: push command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/rdp/plugin.rb
+ INFO manager: Registered plugin: rdp command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/reload/plugin.rb
+ INFO manager: Registered plugin: reload command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/resume/plugin.rb
+ INFO manager: Registered plugin: resume command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/snapshot/plugin.rb
+ INFO manager: Registered plugin: snapshot command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/ssh/plugin.rb
+ INFO manager: Registered plugin: ssh command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/ssh_config/plugin.rb
+ INFO manager: Registered plugin: ssh-config command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/status/plugin.rb
+ INFO manager: Registered plugin: status command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/suspend/plugin.rb
+ INFO manager: Registered plugin: suspend command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/up/plugin.rb
+ INFO manager: Registered plugin: up command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/validate/plugin.rb
+ INFO manager: Registered plugin: validate command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/commands/version/plugin.rb
+ INFO manager: Registered plugin: version command
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/communicators/ssh/plugin.rb
+ INFO manager: Registered plugin: ssh communicator
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/communicators/winrm/plugin.rb
+ INFO manager: Registered plugin: winrm communicator
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/communicators/winssh/plugin.rb
+ INFO manager: Registered plugin: windows ssh communicator
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/alt/plugin.rb
+ INFO manager: Registered plugin: ALT Platform guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/amazon/plugin.rb
+ INFO manager: Registered plugin: Amazon Linux guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/arch/plugin.rb
+ INFO manager: Registered plugin: Arch guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/atomic/plugin.rb
+ INFO manager: Registered plugin: Atomic Host guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/bsd/plugin.rb
+ INFO manager: Registered plugin: BSD-based guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/coreos/plugin.rb
+ INFO manager: Registered plugin: CoreOS guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/darwin/plugin.rb
+ INFO manager: Registered plugin: Darwin guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/debian/plugin.rb
+ INFO manager: Registered plugin: Debian guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/dragonflybsd/plugin.rb
+ INFO manager: Registered plugin: DragonFly BSD guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/elementary/plugin.rb
+ INFO manager: Registered plugin: Elementary guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/esxi/plugin.rb
+ INFO manager: Registered plugin: ESXi guest.
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/fedora/plugin.rb
+ INFO manager: Registered plugin: Fedora guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/freebsd/plugin.rb
+ INFO manager: Registered plugin: FreeBSD guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/funtoo/plugin.rb
+ INFO manager: Registered plugin: Funtoo guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/gentoo/plugin.rb
+ INFO manager: Registered plugin: Gentoo guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/kali/plugin.rb
+ INFO manager: Registered plugin: Kali guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/linux/plugin.rb
+ INFO manager: Registered plugin: Linux guest.
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/mint/plugin.rb
+ INFO manager: Registered plugin: Mint guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/netbsd/plugin.rb
+ INFO manager: Registered plugin: NetBSD guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/nixos/plugin.rb
+ INFO manager: Registered plugin: NixOS guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/omnios/plugin.rb
+ INFO manager: Registered plugin: OmniOS guest.
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/openbsd/plugin.rb
+ INFO manager: Registered plugin: OpenBSD guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/photon/plugin.rb
+ INFO manager: Registered plugin: VMware Photon guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/pld/plugin.rb
+ INFO manager: Registered plugin: PLD Linux guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/redhat/plugin.rb
+ INFO manager: Registered plugin: Red Hat Enterprise Linux guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/slackware/plugin.rb
+ INFO manager: Registered plugin: Slackware guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/smartos/plugin.rb
+ INFO manager: Registered plugin: SmartOS guest.
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/solaris/plugin.rb
+ INFO manager: Registered plugin: Solaris guest.
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/solaris11/plugin.rb
+ INFO manager: Registered plugin: Solaris 11 guest.
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/suse/plugin.rb
+ INFO manager: Registered plugin: SUSE guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/tinycore/plugin.rb
+ INFO manager: Registered plugin: TinyCore Linux guest.
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/trisquel/plugin.rb
+ INFO manager: Registered plugin: Trisquel guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/ubuntu/plugin.rb
+ INFO manager: Registered plugin: Ubuntu guest
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/guests/windows/plugin.rb
+ INFO manager: Registered plugin: Windows guest.
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/hosts/alt/plugin.rb
+ INFO manager: Registered plugin: ALT Platform host
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/hosts/arch/plugin.rb
+ INFO manager: Registered plugin: Arch host
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/hosts/bsd/plugin.rb
+ INFO manager: Registered plugin: BSD host
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/hosts/darwin/plugin.rb
+ INFO manager: Registered plugin: Mac OS X host
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/hosts/freebsd/plugin.rb
+ INFO manager: Registered plugin: FreeBSD host
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/hosts/gentoo/plugin.rb
+ INFO manager: Registered plugin: Gentoo host
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/hosts/linux/plugin.rb
+ INFO manager: Registered plugin: Linux host
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/hosts/null/plugin.rb
+ INFO manager: Registered plugin: null host
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/hosts/redhat/plugin.rb
+ INFO manager: Registered plugin: Red Hat Enterprise Linux host
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/hosts/slackware/plugin.rb
+ INFO manager: Registered plugin: Slackware host
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/hosts/suse/plugin.rb
+ INFO manager: Registered plugin: SUSE host
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/hosts/windows/plugin.rb
+ INFO manager: Registered plugin: Windows host
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/kernel_v1/plugin.rb
+ INFO manager: Registered plugin: kernel
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/kernel_v2/plugin.rb
+ INFO manager: Registered plugin: kernel
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/providers/docker/plugin.rb
+ INFO manager: Registered plugin: docker-provider
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/providers/hyperv/plugin.rb
+ INFO manager: Registered plugin: Hyper-V provider
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/providers/virtualbox/plugin.rb
+ INFO manager: Registered plugin: VirtualBox provider
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/provisioners/ansible/plugin.rb
+ INFO manager: Registered plugin: ansible
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/provisioners/cfengine/plugin.rb
+ INFO manager: Registered plugin: CFEngine Provisioner
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/provisioners/chef/plugin.rb
+ INFO manager: Registered plugin: chef
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/provisioners/docker/plugin.rb
+ INFO manager: Registered plugin: docker
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/provisioners/file/plugin.rb
+ INFO manager: Registered plugin: file
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/provisioners/puppet/plugin.rb
+ INFO manager: Registered plugin: puppet
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/provisioners/salt/plugin.rb
+ INFO manager: Registered plugin: salt
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/provisioners/shell/plugin.rb
+ INFO manager: Registered plugin: shell
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/pushes/atlas/plugin.rb
+ INFO manager: Registered plugin: atlas
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/pushes/ftp/plugin.rb
+ INFO manager: Registered plugin: ftp
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/pushes/heroku/plugin.rb
+ INFO manager: Registered plugin: heroku
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/pushes/local-exec/plugin.rb
+ INFO manager: Registered plugin: local-exec
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/pushes/noop/plugin.rb
+ INFO manager: Registered plugin: noop
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/synced_folders/nfs/plugin.rb
+ INFO manager: Registered plugin: NFS synced folders
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/synced_folders/rsync/plugin.rb
+ INFO manager: Registered plugin: RSync synced folders
+DEBUG global: Loading core plugin: C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/synced_folders/smb/plugin.rb
+ INFO manager: Registered plugin: SMB synced folders
+ INFO global: Loading plugins!
+DEBUG global: Loading plugin `vagrant-bindfs` with default require: `vagrant-bindfs`
+ INFO manager: Registered plugin: bindfs
+DEBUG global: Successfully loaded plugin `vagrant-bindfs`.
+DEBUG global: Loading plugin `vagrant-hostmanager` with default require: `vagrant-hostmanager`
+ INFO manager: Registered plugin: HostManager
+DEBUG global: Successfully loaded plugin `vagrant-hostmanager`.
+DEBUG global: Loading plugin `vagrant-hostsupdater` with default require: `vagrant-hostsupdater`
+ INFO manager: Registered plugin: HostsUpdater
+DEBUG global: Successfully loaded plugin `vagrant-hostsupdater`.
+DEBUG global: Loading plugin `vagrant-share` with default require: `vagrant-share`
+ INFO manager: Registered plugin: vagrant-share
+DEBUG global: Successfully loaded plugin `vagrant-share`.
+DEBUG global: Loading plugin `vagrant-winnfsd` with default require: `vagrant-winnfsd`
+ INFO manager: Registered plugin: WinNFSd
+DEBUG global: Successfully loaded plugin `vagrant-winnfsd`.
+ INFO vagrant: `vagrant` invoked: ["--debug", "ssh"]
+DEBUG vagrant: Creating Vagrant environment
+ INFO environment: Environment initialized (#<Vagrant::Environment:0x0000000005c399e8>)
+ INFO environment:   - cwd: D:/code/Homestead
+ INFO environment: Home path: E:/Vagrant
+DEBUG environment: Effective local data path: D:/code/Homestead/.vagrant
+ INFO environment: Local data path: D:/code/Homestead/.vagrant
+DEBUG environment: Creating: D:/code/Homestead/.vagrant
+ INFO environment: Running hook: environment_plugins_loaded
+ INFO runner: Preparing hooks for middleware sequence...
+ INFO runner: 1 hooks defined.
+ INFO runner: Running action: environment_plugins_loaded #<Vagrant::Action::Builder:0x0000000005a42f40>
+ INFO environment: Running hook: environment_load
+ INFO runner: Preparing hooks for middleware sequence...
+ INFO runner: 2 hooks defined.
+ INFO runner: Running action: environment_load #<Vagrant::Action::Builder:0x0000000002698d98>
+ INFO cli: CLI: [] "ssh" []
+DEBUG cli: Invoking command class: VagrantPlugins::CommandSSH::Command []
+DEBUG command: Getting target VMs for command. Arguments:
+DEBUG command:  -- names: []
+DEBUG command:  -- options: {:single_target=>true}
+DEBUG command: Loading all machines...
+ INFO loader: Set :root = ["#<Pathname:D:/code/Homestead/Vagrantfile>"]
+DEBUG loader: Populating proc cache for #<Pathname:D:/code/Homestead/Vagrantfile>
+DEBUG loader: Load procs for pathname: D:/code/Homestead/Vagrantfile
+ INFO root: Version requirements from Vagrantfile: [">= 1.9.0"]
+ INFO root:   - Version requirements satisfied!
+ INFO loader: Loading configuration in order: [:home, :root]
+DEBUG loader: Loading from: root (evaluating)
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG provisioner: Provisioner defined: 
+DEBUG loader: Configuration loaded successfully, finalizing and returning
+DEBUG push: finalizing
+ INFO command: Active machine found with name ***** Homestead. Using provider: virtualbox
+ INFO environment: Getting machine: ***** Homestead (virtualbox)
+ INFO environment: Uncached load of machine.
+DEBUG base: Windows, checking for VBoxManage on PATH first
+DEBUG base: Windows. Trying VBOX_INSTALL_PATH for VBoxManage
+DEBUG base: VBOX_INSTALL_PATH value: C:\Program Files\Oracle\VirtualBox\
+ INFO subprocess: Starting process: ["C:\\Program Files\\Git\\usr\\bin/cygpath.EXE", "-w", "-l", "-a", "C:/Program Files/Oracle/VirtualBox/VBoxManage.exe"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: C:\Program Files\Oracle\VirtualBox\VBoxManage.exe
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 0
+ INFO base: VBoxManage path: C:/Program Files/Oracle/VirtualBox/VBoxManage.exe
+ INFO subprocess: Starting process: ["C:/Program Files/Oracle/VirtualBox/VBoxManage.exe", "--version"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: 5.2.2r119230
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 0
+DEBUG meta: Finding driver for VirtualBox version: 5.2.2
+ INFO meta: Using VirtualBox driver: VagrantPlugins::ProviderVirtualBox::Driver::Version_5_2
+DEBUG base: Windows, checking for VBoxManage on PATH first
+DEBUG base: Windows. Trying VBOX_INSTALL_PATH for VBoxManage
+DEBUG base: VBOX_INSTALL_PATH value: C:\Program Files\Oracle\VirtualBox\
+ INFO subprocess: Starting process: ["C:\\Program Files\\Git\\usr\\bin/cygpath.EXE", "-w", "-l", "-a", "C:/Program Files/Oracle/VirtualBox/VBoxManage.exe"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: C:\Program Files\Oracle\VirtualBox\VBoxManage.exe
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 0
+ INFO base: VBoxManage path: C:/Program Files/Oracle/VirtualBox/VBoxManage.exe
+ INFO loader: Set "38316240_machine_***** Homestead" = []
+ INFO loader: Loading configuration in order: [:home, :root, "38316240_machine_***** Homestead"]
+DEBUG loader: Loading from: root (cache)
+DEBUG loader: Configuration loaded successfully, finalizing and returning
+DEBUG push: finalizing
+ INFO box_collection: Box found: laravel/homestead (virtualbox)
+ INFO environment: Running hook: authenticate_box_url
+ INFO host: Autodetecting host type for [#<Vagrant::Environment: D:/code/Homestead>]
+DEBUG host: Trying: alt
+DEBUG host: Trying: arch
+DEBUG host: Trying: darwin
+DEBUG host: Trying: freebsd
+DEBUG host: Trying: gentoo
+DEBUG host: Trying: redhat
+DEBUG host: Trying: slackware
+DEBUG host: Trying: suse
+DEBUG host: Trying: bsd
+DEBUG host: Trying: linux
+DEBUG host: Trying: null
+DEBUG host: Trying: windows
+ INFO host: Detected: windows!
+ INFO runner: Preparing hooks for middleware sequence...
+ INFO runner: 2 hooks defined.
+ INFO runner: Running action: authenticate_box_url #<Vagrant::Action::Builder:0x00000000049ec600>
+ INFO warden: Calling IN action: #<VagrantPlugins::LoginCommand::AddAuthentication:0x0000000007213110>
+DEBUG client: No authentication token in environment or E:/Vagrant/data/vagrant_login_token
+ INFO warden: Calling OUT action: #<VagrantPlugins::LoginCommand::AddAuthentication:0x0000000007213110>
+ INFO loader: Set :"52587860_laravel/homestead_virtualbox" = ["#<Pathname:E:/Vagrant/boxes/laravel-VAGRANTSLASH-homestead/2.0.0/virtualbox/Vagrantfile>"]
+DEBUG loader: Populating proc cache for #<Pathname:E:/Vagrant/boxes/laravel-VAGRANTSLASH-homestead/2.0.0/virtualbox/Vagrantfile>
+DEBUG loader: Load procs for pathname: E:/Vagrant/boxes/laravel-VAGRANTSLASH-homestead/2.0.0/virtualbox/Vagrantfile
+ INFO loader: Loading configuration in order: [:"52587860_laravel/homestead_virtualbox", :home, :root, "38316240_machine_***** Homestead"]
+DEBUG loader: Loading from: 52587860_laravel/homestead_virtualbox (evaluating)
+DEBUG loader: Upgrading config from version 1 to 2
+DEBUG loader: Upgrading config to version 2
+DEBUG loader: Upgraded to version 2 with 0 warnings and 0 errors
+DEBUG loader: Loading from: root (cache)
+DEBUG loader: Configuration loaded successfully, finalizing and returning
+DEBUG push: finalizing
+ INFO machine: Initializing machine: ***** Homestead
+ INFO machine:   - Provider: VagrantPlugins::ProviderVirtualBox::Provider
+ INFO machine:   - Box: #<Vagrant::Box:0x000000000727f1d0>
+ INFO machine:   - Data dir: D:/code/Homestead/.vagrant/machines/***** Homestead/virtualbox
+DEBUG virtualbox: Instantiating the driver for machine ID: "4d41e0d8-376f-46ef-8f94-7fbd96ca1ace"
+DEBUG base: Windows, checking for VBoxManage on PATH first
+DEBUG base: Windows. Trying VBOX_INSTALL_PATH for VBoxManage
+DEBUG base: VBOX_INSTALL_PATH value: C:\Program Files\Oracle\VirtualBox\
+ INFO subprocess: Starting process: ["C:\\Program Files\\Git\\usr\\bin/cygpath.EXE", "-w", "-l", "-a", "C:/Program Files/Oracle/VirtualBox/VBoxManage.exe"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: C:\Program Files\Oracle\VirtualBox\VBoxManage.exe
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 0
+ INFO base: VBoxManage path: C:/Program Files/Oracle/VirtualBox/VBoxManage.exe
+DEBUG meta: Finding driver for VirtualBox version: 5.2.2
+ INFO meta: Using VirtualBox driver: VagrantPlugins::ProviderVirtualBox::Driver::Version_5_2
+DEBUG base: Windows, checking for VBoxManage on PATH first
+DEBUG base: Windows. Trying VBOX_INSTALL_PATH for VBoxManage
+DEBUG base: VBOX_INSTALL_PATH value: C:\Program Files\Oracle\VirtualBox\
+ INFO subprocess: Starting process: ["C:\\Program Files\\Git\\usr\\bin/cygpath.EXE", "-w", "-l", "-a", "C:/Program Files/Oracle/VirtualBox/VBoxManage.exe"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: C:\Program Files\Oracle\VirtualBox\VBoxManage.exe
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 0
+ INFO base: VBoxManage path: C:/Program Files/Oracle/VirtualBox/VBoxManage.exe
+ INFO subprocess: Starting process: ["C:/Program Files/Oracle/VirtualBox/VBoxManage.exe", "showvminfo", "4d41e0d8-376f-46ef-8f94-7fbd96ca1ace"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: Name:            ***** Homestead
+Groups:          /
+Guest OS:        Ubuntu (64-bit)
+UUID:            4d41e0d8-376f-46ef-8f94-7fbd96ca1ace
+Config file:     E:\SlowVMs\VirtualBox\***** Homestead\***** Homestead.vbox
+Snapshot folder: E:\SlowVMs\VirtualBox\***** Homestead\Snapshots
+Log folder:      E:\SlowVMs\VirtualBox\***** Homestead\Logs
+Hardware UUID:   4d41e0d8-376f-46ef-8f94-7fbd96ca1ace
+Memory size:     6096MB
+Page Fusion:     off
+VRAM size:       8MB
+CPU exec cap:    100%
+HPET:            off
+Chipset:         piix3
+Firmware:        BIOS
+Number of CPUs:  8
+PAE:             on
+Long Mode:       on
+Triple Fault Reset: off
+APIC:            on
+X2APIC:          on
+CPUID Portability Level: 0
+CPUID overrides: None
+Boot menu mode:  message and menu
+Boot Device (1): HardDisk
+Boot Device (2): DVD
+Boot Device (3): Not Assigned
+Boot Device (4): Not Assigned
+ACPI:            on
+IOAPIC:          on
+BIOS APIC mode:  APIC
+Time offset:     0ms
+RTC:             UTC
+Hardw. virt.ext: on
+Nested Paging:   on
+Large Pages:     on
+VT-x VPID:       on
+VT-x unr. exec.: on
+Paravirt. Provider: Default
+Effective Paravirt. Provider: KVM
+State:           running (since 2018-01-17T12:14:32.192000000)
+Monitor count:   1
+3D Acceleration: off
+2D Video Acceleration: off
+Teleporter Enabled: off
+Teleporter Port: 0
+Teleporter Address: 
+Teleporter Password: 
+Tracing Enabled: off
+Allow Tracing to Access VM: off
+Tracing Configuration: 
+Autostart Enabled: off
+Autostart Delay: 0
+Default Frontend: 
+Storage Controller Name (0):            IDE Controller
+Storage Controller Type (0):            PIIX4
+Storage Controller Instance Number (0): 0
+Storage Controller Max Port Count (0):  2
+Storage Controller Port Count (0):      2
+Storage Controller Bootable (0):        on
+Storage Controller Name (1):            SATA Controller
+Storage Controller Type (1):            IntelAhci
+Storage Controller Instance Number (1): 0
+Storage Controller Max Port Count (1):  30
+Storage Controller Port Count (1):      1
+Storage Controller Bootable (1):        on
+SATA Controller (0, 0): E:\SlowVMs\VirtualBox\***** Homestead\box-disk1.vmdk (UUID: 42b59a12-e0d0-48f5-9cff-165734db558b)
+NIC 1:           MAC: 080027C30A85, Attachment: NAT, Cable connected: on, Trace: off (file: none), Type: 82540EM, Reported speed: 0 Mbps, Boot priority: 0, Promisc Policy: deny, Bandwidth group: none
+NIC 1 Settings:  MTU: 0, Socket (send: 64, receive: 64), TCP Window (send:64, receive: 64)
+NIC 1 Rule(0):   name = ssh, protocol = tcp, host ip = 127.0.0.1, host port = 2222, guest ip = , guest port = 22
+NIC 1 Rule(1):   name = tcp27017, protocol = tcp, host ip = , host port = 27017, guest ip = , guest port = 27017
+NIC 1 Rule(2):   name = tcp33060, protocol = tcp, host ip = , host port = 33060, guest ip = , guest port = 3306
+NIC 1 Rule(3):   name = tcp44300, protocol = tcp, host ip = , host port = 44300, guest ip = , guest port = 443
+NIC 1 Rule(4):   name = tcp54320, protocol = tcp, host ip = , host port = 54320, guest ip = , guest port = 5432
+NIC 1 Rule(5):   name = tcp8000, protocol = tcp, host ip = , host port = 8000, guest ip = , guest port = 80
+NIC 1 Rule(6):   name = tcp8025, protocol = tcp, host ip = , host port = 8025, guest ip = , guest port = 8025
+NIC 2:           MAC: 080027D9C3F1, Attachment: Host-only Interface 'VirtualBox Host-Only Ethernet Adapter #2', Cable connected: on, Trace: off (file: none), Type: 82540EM, Reported speed: 0 Mbps, Boot priority: 0, Promisc Policy: deny, Bandwidth group: none
+NIC 3:           disabled
+NIC 4:           disabled
+NIC 5:           disabled
+NIC 6:           disabled
+NIC 7:           disabled
+NIC 8:           disabled
+Pointing Device: PS/2 Mouse
+Keyboard Device: PS/2 Keyboard
+UART 1:          disabled
+UART 2:          disabled
+UART 3:          disabled
+UART 4:          disabled
+LPT 1:           disabled
+LPT 2:           disabled
+Audio:           enabled (Driver: DSOUND, Controller: AC97, Codec: STAC9700)
+Audio playback:  enabled
+Audio capture: enabled
+Clipboard Mode:  disabled
+Drag and drop Mode: disabled
+Session name:    headless
+Video mode:      800x600x0 at 0,0 blank
+VRDE:            enabled (Address 127.0.0.1, Ports 5986, MultiConn: off, ReuseSingleConn: off, Authentication type: null)
+Video redirection: disabled
+USB:             disabled
+EHCI:            disabled
+XHCI:            disabled
+
+USB Device Filters:
+
+<none>
+
+Available remote USB devices:
+
+<none>
+
+Currently Attached USB Devices:
+
+<none>
+
+Bandwidth groups:  <none>
+
+Shared folders:  
+
+Name: 'vagrant', Host path: '\\?\D:\code\Homestead' (machine mapping), writable
+
+VRDE Connection:    not active
+Clients so far:     0
+
+Capturing:          not active
+Capture screens:    0
+Capture file:       E:\SlowVMs\VirtualBox\***** Homestead\***** Homestead.webm
+Capture dimensions: 1024x768
+Capture rate:       512 kbps
+Capture FPS:        25
+Capture options:    
+
+Guest:
+
+Configured memory balloon size:      0 MB
+OS type:                             Linux26_64
+Additions run level:                 2
+Additions version:                   5.1.10 r112026
+
+
+Guest Facilities:
+
+Facility "VirtualBox Base Driver": active/running (last update: 2018/01/17 12:14:49 UTC)
+Facility "VirtualBox System Service": active/running (last update: 2018/01/17 12:15:02 UTC)
+Facility "Seamless Mode": not active (last update: 2018/01/17 12:14:49 UTC)
+Facility "Graphics Mode": not active (last update: 2018/01/17 12:14:49 UTC)
+
+
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 0
+ INFO subprocess: Starting process: ["C:/Program Files/Oracle/VirtualBox/VBoxManage.exe", "showvminfo", "4d41e0d8-376f-46ef-8f94-7fbd96ca1ace", "--machinereadable"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: name="***** Homestead"
+groups="/"
+ostype="Ubuntu (64-bit)"
+UUID="4d41e0d8-376f-46ef-8f94-7fbd96ca1ace"
+CfgFile="E:\\SlowVMs\\VirtualBox\\***** Homestead\\***** Homestead.vbox"
+SnapFldr="E:\\SlowVMs\\VirtualBox\\***** Homestead\\Snapshots"
+LogFldr="E:\\SlowVMs\\VirtualBox\\***** Homestead\\Logs"
+hardwareuuid="4d41e0d8-376f-46ef-8f94-7fbd96ca1ace"
+memory=6096
+pagefusion="off"
+vram=8
+cpuexecutioncap=100
+hpet="off"
+chipset="piix3"
+firmware="BIOS"
+cpus=8
+pae="on"
+longmode="on"
+triplefaultreset="off"
+apic="on"
+x2apic="on"
+cpuid-portability-level=0
+bootmenu="messageandmenu"
+boot1="disk"
+boot2="dvd"
+boot3="none"
+boot4="none"
+acpi="on"
+ioapic="on"
+biosapic="apic"
+biossystemtimeoffset=0
+rtcuseutc="on"
+hwvirtex="on"
+nestedpaging="on"
+largepages="on"
+vtxvpid="on"
+vtxux="on"
+paravirtprovider="default"
+effparavirtprovider="kvm"
+VMState="running"
+VMStateChangeTime="2018-01-17T12:14:32.192000000"
+monitorcount=1
+accelerate3d="off"
+accelerate2dvideo="off"
+teleporterenabled="off"
+teleporterport=0
+teleporteraddress=""
+teleporterpassword=""
+tracing-enabled="off"
+tracing-allow-vm-access="off"
+tracing-config=""
+autostart-enabled="off"
+autostart-delay=0
+defaultfrontend=""
+storagecontrollername0="IDE Controller"
+storagecontrollertype0="PIIX4"
+storagecontrollerinstance0="0"
+storagecontrollermaxportcount0="2"
+storagecontrollerportcount0="2"
+storagecontrollerbootable0="on"
+storagecontrollername1="SATA Controller"
+storagecontrollertype1="IntelAhci"
+storagecontrollerinstance1="0"
+storagecontrollermaxportcount1="30"
+storagecontrollerportcount1="1"
+storagecontrollerbootable1="on"
+"IDE Controller-0-0"="none"
+"IDE Controller-0-1"="none"
+"IDE Controller-1-0"="none"
+"IDE Controller-1-1"="none"
+"SATA Controller-0-0"="E:\SlowVMs\VirtualBox\***** Homestead\box-disk1.vmdk"
+"SATA Controller-ImageUUID-0-0"="42b59a12-e0d0-48f5-9cff-165734db558b"
+natnet1="nat"
+macaddress1="080027C30A85"
+cableconnected1="on"
+nic1="nat"
+nictype1="82540EM"
+nicspeed1="0"
+mtu="0"
+sockSnd="64"
+sockRcv="64"
+tcpWndSnd="64"
+tcpWndRcv="64"
+Forwarding(0)="ssh,tcp,127.0.0.1,2222,,22"
+Forwarding(1)="tcp27017,tcp,,27017,,27017"
+Forwarding(2)="tcp33060,tcp,,33060,,3306"
+Forwarding(3)="tcp44300,tcp,,44300,,443"
+Forwarding(4)="tcp54320,tcp,,54320,,5432"
+Forwarding(5)="tcp8000,tcp,,8000,,80"
+Forwarding(6)="tcp8025,tcp,,8025,,8025"
+hostonlyadapter2="VirtualBox Host-Only Ethernet Adapter #2"
+macaddress2="080027D9C3F1"
+cableconnected2="on"
+nic2="hostonly"
+nictype2="82540EM"
+nicspeed2="0"
+nic3="none"
+nic4="none"
+nic5="none"
+nic6="none"
+nic7="none"
+nic8="none"
+hidpointing="ps2mouse"
+hidkeyboard="ps2kbd"
+uart1="off"
+uart2="off"
+uart3="off"
+uart4="off"
+lpt1="off"
+lpt2="off"
+audio="dsound"
+audio_in="true"
+audio_out="true"
+clipboard="disabled"
+draganddrop="disabled"
+SessionName="headless"
+VideoMode="800,600,0"@0,0 2
+vrde="on"
+vrdeport=-1
+vrdeports="5986"
+vrdeaddress="127.0.0.1"
+vrdeauthtype="null"
+vrdemulticon="off"
+vrdereusecon="off"
+vrdevideochannel="off"
+usb="off"
+ehci="off"
+xhci="off"
+SharedFolderNameMachineMapping1="vagrant"
+SharedFolderPathMachineMapping1="\\?\D:\code\Homestead"
+VRDEActiveConnection="off"
+VRDEClients=0
+videocap="off"
+videocapscreens=0
+videocapfile="E:\SlowVMs\VirtualBox\***** Homestead\***** Homestead.webm"
+videocapres=1024x768
+videocaprate=512
+videocapfps=25
+videocapopts=
+GuestMemoryBalloon=0
+GuestOSType="Linux26_64"
+GuestAdditionsRunLevel=2
+GuestAdditionsVersion="5.1.10 r112026"
+GuestAdditionsFacility_VirtualBox Base Driver=50,1516191289008
+GuestAdditionsFacility_VirtualBox System Service=50,1516191302021
+GuestAdditionsFacility_Seamless Mode=0,1516191289008
+GuestAdditionsFacility_Graphics Mode=0,1516191289008
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 0
+ INFO interface: Machine: metadata ["provider", :virtualbox, {:target=>:"***** Homestead"}]
+ INFO command: With machine: ***** Homestead (#<VagrantPlugins::ProviderVirtualBox::Provider:0x0000000005d1fd80 @logger=#<Log4r::Logger:0x0000000005d1f3f8 @fullname="vagrant::provider::virtualbox", @outputters=[], @additive=true, @name="virtualbox", @path="vagrant::provider", @parent=#<Log4r::Logger:0x00000000045a6d48 @fullname="vagrant", @outputters=[#<Log4r::StderrOutputter:0x0000000002652b68 @mon_owner=nil, @mon_count=0, @mon_mutex=#<Thread::Mutex:0x0000000002652a78>, @name="stderr", @level=0, @formatter=#<Log4r::DefaultFormatter:0x0000000002649068 @depth=7>, @out=#<IO:<STDERR>>>], @additive=true, @name="vagrant", @path="", @parent=#<Log4r::RootLogger:0x00000000045a6a50 @level=0, @outputters=[]>, @level=1, @trace=false>, @level=1, @trace=false>, @machine=#<Vagrant::Machine: ***** Homestead (VagrantPlugins::ProviderVirtualBox::Provider)>, @driver=#<VagrantPlugins::ProviderVirtualBox::Driver::Meta:0x00000000076129c8 @logger=#<Log4r::Logger:0x00000000074b04b8 @fullname="vagrant::provider::virtualbox::meta", @outputters=[], @additive=true, @name="meta", @path="vagrant::provider::virtualbox", @parent=#<Log4r::Logger:0x0000000005d1f3f8 @fullname="vagrant::provider::virtualbox", @outputters=[], @additive=true, @name="virtualbox", @path="vagrant::provider", @parent=#<Log4r::Logger:0x00000000045a6d48 @fullname="vagrant", @outputters=[#<Log4r::StderrOutputter:0x0000000002652b68 @mon_owner=nil, @mon_count=0, @mon_mutex=#<Thread::Mutex:0x0000000002652a78>, @name="stderr", @level=0, @formatter=#<Log4r::DefaultFormatter:0x0000000002649068 @depth=7>, @out=#<IO:<STDERR>>>], @additive=true, @name="vagrant", @path="", @parent=#<Log4r::RootLogger:0x00000000045a6a50 @level=0, @outputters=[]>, @level=1, @trace=false>, @level=1, @trace=false>, @level=1, @trace=false>, @interrupted=false, @vboxmanage_path="C:/Program Files/Oracle/VirtualBox/VBoxManage.exe", @uuid="4d41e0d8-376f-46ef-8f94-7fbd96ca1ace", @driver=#<VagrantPlugins::ProviderVirtualBox::Driver::Version_5_2:0x000000000747b3a8 @logger=#<Log4r::Logger:0x00000000073256c0 @fullname="vagrant::provider::virtualbox_5_2", @outputters=[], @additive=true, @name="virtualbox_5_2", @path="vagrant::provider", @parent=#<Log4r::Logger:0x00000000045a6d48 @fullname="vagrant", @outputters=[#<Log4r::StderrOutputter:0x0000000002652b68 @mon_owner=nil, @mon_count=0, @mon_mutex=#<Thread::Mutex:0x0000000002652a78>, @name="stderr", @level=0, @formatter=#<Log4r::DefaultFormatter:0x0000000002649068 @depth=7>, @out=#<IO:<STDERR>>>], @additive=true, @name="vagrant", @path="", @parent=#<Log4r::RootLogger:0x00000000045a6a50 @level=0, @outputters=[]>, @level=1, @trace=false>, @level=1, @trace=false>, @interrupted=false, @vboxmanage_path="C:/Program Files/Oracle/VirtualBox/VBoxManage.exe", @uuid="4d41e0d8-376f-46ef-8f94-7fbd96ca1ace">, @version="5.2.2">, @cap_logger=#<Log4r::Logger:0x000000000722a6a8 @fullname="vagrant::capability_host::vagrantplugins::providervirtualbox::provider", @outputters=[], @additive=true, @name="provider", @path="vagrant::capability_host::vagrantplugins::providervirtualbox", @parent=#<Log4r::Logger:0x00000000045a6d48 @fullname="vagrant", @outputters=[#<Log4r::StderrOutputter:0x0000000002652b68 @mon_owner=nil, @mon_count=0, @mon_mutex=#<Thread::Mutex:0x0000000002652a78>, @name="stderr", @level=0, @formatter=#<Log4r::DefaultFormatter:0x0000000002649068 @depth=7>, @out=#<IO:<STDERR>>>], @additive=true, @name="vagrant", @path="", @parent=#<Log4r::RootLogger:0x00000000045a6a50 @level=0, @outputters=[]>, @level=1, @trace=false>, @level=1, @trace=false>, @cap_host_chain=[[:virtualbox, #<#<Class:0x000000000722ab08>:0x00000000071f0f48>]], @cap_args=[#<Vagrant::Machine: ***** Homestead (VagrantPlugins::ProviderVirtualBox::Provider)>], @cap_caps={:docker=>#<Vagrant::Registry:0x000000000722a9c8 @items={:public_address=>#<Proc:0x0000000005b9b798@C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/providers/docker/plugin.rb:60>, :proxy_machine=>#<Proc:0x0000000005b9b630@C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/providers/docker/plugin.rb:65>}, @results_cache={}>, :hyperv=>#<Vagrant::Registry:0x000000000722a928 @items={:public_address=>#<Proc:0x0000000005ba3c68@C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/providers/hyperv/plugin.rb:25>, :snapshot_list=>#<Proc:0x0000000005ba3b78@C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/providers/hyperv/plugin.rb:30>}, @results_cache={}>, :virtualbox=>#<Vagrant::Registry:0x000000000722a888 @items={:forwarded_ports=>#<Proc:0x0000000005ba99d8@C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/providers/virtualbox/plugin.rb:27>, :nic_mac_addresses=>#<Proc:0x0000000005ba9938@C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/providers/virtualbox/plugin.rb:32>, :public_address=>#<Proc:0x0000000005ba9910@C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/providers/virtualbox/plugin.rb:37>, :snapshot_list=>#<Proc:0x0000000005ba98e8@C:/HashiCorp/Vagrant/embedded/gems/gems/vagrant-2.0.1/plugins/providers/virtualbox/plugin.rb:42>}, @results_cache={}>}>)
+DEBUG command: Invoking `ssh` action on machine
+ INFO machine: Calling action: ssh on provider VirtualBox (4d41e0d8-376f-46ef-8f94-7fbd96ca1ace)
+ INFO interface: Machine: action ["ssh", "start", {:target=>:"***** Homestead"}]
+ INFO runner: Preparing hooks for middleware sequence...
+ INFO runner: 1 hooks defined.
+ INFO runner: Running action: machine_action_ssh #<Vagrant::Action::Builder:0x0000000006b90d10>
+ INFO warden: Calling IN action: #<VagrantPlugins::ProviderVirtualBox::Action::CheckVirtualbox:0x0000000006e5c3a0>
+DEBUG base: Windows, checking for VBoxManage on PATH first
+DEBUG base: Windows. Trying VBOX_INSTALL_PATH for VBoxManage
+DEBUG base: VBOX_INSTALL_PATH value: C:\Program Files\Oracle\VirtualBox\
+ INFO subprocess: Starting process: ["C:\\Program Files\\Git\\usr\\bin/cygpath.EXE", "-w", "-l", "-a", "C:/Program Files/Oracle/VirtualBox/VBoxManage.exe"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: C:\Program Files\Oracle\VirtualBox\VBoxManage.exe
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 0
+ INFO base: VBoxManage path: C:/Program Files/Oracle/VirtualBox/VBoxManage.exe
+DEBUG meta: Finding driver for VirtualBox version: 5.2.2
+ INFO meta: Using VirtualBox driver: VagrantPlugins::ProviderVirtualBox::Driver::Version_5_2
+DEBUG base: Windows, checking for VBoxManage on PATH first
+DEBUG base: Windows. Trying VBOX_INSTALL_PATH for VBoxManage
+DEBUG base: VBOX_INSTALL_PATH value: C:\Program Files\Oracle\VirtualBox\
+ INFO subprocess: Starting process: ["C:\\Program Files\\Git\\usr\\bin/cygpath.EXE", "-w", "-l", "-a", "C:/Program Files/Oracle/VirtualBox/VBoxManage.exe"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: C:\Program Files\Oracle\VirtualBox\VBoxManage.exe
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 0
+ INFO base: VBoxManage path: C:/Program Files/Oracle/VirtualBox/VBoxManage.exe
+ INFO subprocess: Starting process: ["C:/Program Files/Oracle/VirtualBox/VBoxManage.exe", "list", "hostonlyifs"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: Name:            VirtualBox Host-Only Ethernet Adapter
+GUID:            2548cf04-b1b8-4d56-a750-8875135a379f
+DHCP:            Disabled
+IPAddress:       192.168.122.1
+NetworkMask:     255.255.255.0
+IPV6Address:     fe80::6d8d:f654:359c:309
+IPV6NetworkMaskPrefixLength: 64
+HardwareAddress: 0a:00:27:00:00:03
+MediumType:      Ethernet
+Wireless:        No
+Status:          Up
+VBoxNetworkName: HostInterfaceNetworking-VirtualBox Host-Only Ethernet Adapter
+
+Name:            VirtualBox Host-Only Ethernet Adapter #3
+GUID:            c226503d-07b1-4f93-be2f-f22ed4cf14b4
+DHCP:            Disabled
+IPAddress:       192.168.169.2
+NetworkMask:     255.255.255.0
+IPV6Address:     fe80::585b:4156:de8b:c32c
+IPV6NetworkMaskPrefixLength: 64
+HardwareAddress: 0a:00:27:00:00:2c
+MediumType:      Ethernet
+Wireless:        No
+Status:          Up
+VBoxNetworkName: HostInterfaceNetworking-VirtualBox Host-Only Ethernet Adapter #3
+
+Name:            VirtualBox Host-Only Ethernet Adapter #2
+GUID:            f24a8523-6453-4963-b00e-6f9dc017d321
+DHCP:            Disabled
+IPAddress:       192.168.10.1
+NetworkMask:     255.255.255.0
+IPV6Address:     fe80::e8cd:5a79:b41c:cf1
+IPV6NetworkMaskPrefixLength: 64
+HardwareAddress: 0a:00:27:00:00:14
+MediumType:      Ethernet
+Wireless:        No
+Status:          Up
+VBoxNetworkName: HostInterfaceNetworking-VirtualBox Host-Only Ethernet Adapter #2
+
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 0
+ INFO warden: Calling IN action: #<VagrantPlugins::ProviderVirtualBox::Action::CheckCreated:0x0000000006e5c378>
+ INFO subprocess: Starting process: ["C:/Program Files/Oracle/VirtualBox/VBoxManage.exe", "showvminfo", "4d41e0d8-376f-46ef-8f94-7fbd96ca1ace", "--machinereadable"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: name="***** Homestead"
+groups="/"
+ostype="Ubuntu (64-bit)"
+UUID="4d41e0d8-376f-46ef-8f94-7fbd96ca1ace"
+CfgFile="E:\\SlowVMs\\VirtualBox\\***** Homestead\\***** Homestead.vbox"
+SnapFldr="E:\\SlowVMs\\VirtualBox\\***** Homestead\\Snapshots"
+LogFldr="E:\\SlowVMs\\VirtualBox\\***** Homestead\\Logs"
+hardwareuuid="4d41e0d8-376f-46ef-8f94-7fbd96ca1ace"
+memory=6096
+pagefusion="off"
+vram=8
+cpuexecutioncap=100
+hpet="off"
+chipset="piix3"
+firmware="BIOS"
+cpus=8
+pae="on"
+longmode="on"
+triplefaultreset="off"
+apic="on"
+x2apic="on"
+cpuid-portability-level=0
+bootmenu="messageandmenu"
+boot1="disk"
+boot2="dvd"
+boot3="none"
+boot4="none"
+acpi="on"
+ioapic="on"
+biosapic="apic"
+biossystemtimeoffset=0
+rtcuseutc="on"
+hwvirtex="on"
+nestedpaging="on"
+largepages="on"
+vtxvpid="on"
+vtxux="on"
+paravirtprovider="default"
+effparavirtprovider="kvm"
+VMState="running"
+VMStateChangeTime="2018-01-17T12:14:32.192000000"
+monitorcount=1
+accelerate3d="off"
+accelerate2dvideo="off"
+teleporterenabled="off"
+teleporterport=0
+teleporteraddress=""
+teleporterpassword=""
+tracing-enabled="off"
+tracing-allow-vm-access="off"
+tracing-config=""
+autostart-enabled="off"
+autostart-delay=0
+defaultfrontend=""
+storagecontrollername0="IDE Controller"
+storagecontrollertype0="PIIX4"
+storagecontrollerinstance0="0"
+storagecontrollermaxportcount0="2"
+storagecontrollerportcount0="2"
+storagecontrollerbootable0="on"
+storagecontrollername1="SATA Controller"
+storagecontrollertype1="IntelAhci"
+storagecontrollerinstance1="0"
+storagecontrollermaxportcount1="30"
+storagecontrollerportcount1="1"
+storagecontrollerbootable1="on"
+"IDE Controller-0-0"="none"
+"IDE Controller-0-1"="none"
+"IDE Controller-1-0"="none"
+"IDE Controller-1-1"="none"
+"SATA Controller-0-0"="E:\SlowVMs\VirtualBox\***** Homestead\box-disk1.vmdk"
+"SATA Controller-ImageUUID-0-0"="42b59a12-e0d0-48f5-9cff-165734db558b"
+natnet1="nat"
+macaddress1="080027C30A85"
+cableconnected1="on"
+nic1="nat"
+nictype1="82540EM"
+nicspeed1="0"
+mtu="0"
+sockSnd="64"
+sockRcv="64"
+tcpWndSnd="64"
+tcpWndRcv="64"
+Forwarding(0)="ssh,tcp,127.0.0.1,2222,,22"
+Forwarding(1)="tcp27017,tcp,,27017,,27017"
+Forwarding(2)="tcp33060,tcp,,33060,,3306"
+Forwarding(3)="tcp44300,tcp,,44300,,443"
+Forwarding(4)="tcp54320,tcp,,54320,,5432"
+Forwarding(5)="tcp8000,tcp,,8000,,80"
+Forwarding(6)="tcp8025,tcp,,8025,,8025"
+hostonlyadapter2="VirtualBox Host-Only Ethernet Adapter #2"
+macaddress2="080027D9C3F1"
+cableconnected2="on"
+nic2="hostonly"
+nictype2="82540EM"
+nicspeed2="0"
+nic3="none"
+nic4="none"
+nic5="none"
+nic6="none"
+nic7="none"
+nic8="none"
+hidpointing="ps2mouse"
+hidkeyboard="ps2kbd"
+uart1="off"
+uart2="off"
+uart3="off"
+uart4="off"
+lpt1="off"
+lpt2="off"
+audio="dsound"
+audio_in="true"
+audio_out="true"
+clipboard="disabled"
+draganddrop="disabled"
+SessionName="headless"
+VideoMode="800,600,0"@0,0 2
+vrde="on"
+vrdeport=-1
+vrdeports="5986"
+vrdeaddress="127.0.0.1"
+vrdeauthtype="null"
+vrdemulticon="off"
+vrdereusecon="off"
+vrdevideochannel="off"
+usb="off"
+ehci="off"
+xhci="off"
+SharedFolderNameMachineMapping1="vagrant"
+SharedFolderPathMachineMapping1="\\?\D:\code\Homestead"
+VRDEActiveConnection="off"
+VRDEClients=0
+videocap="off"
+videocapscreens=0
+videocapfile="E:\SlowVMs\VirtualBox\***** Homestead\***** Homestead.webm"
+videocapres=1024x768
+videocaprate=512
+videocapfps=25
+videocapopts=
+GuestMemoryBalloon=0
+GuestOSType="Linux26_64"
+GuestAdditionsRunLevel=2
+GuestAdditionsVersion="5.1.10 r112026"
+GuestAdditionsFacility_VirtualBox Base Driver=50,1516191289008
+GuestAdditionsFacility_VirtualBox System Service=50,1516191302021
+GuestAdditionsFacility_Seamless Mode=0,1516191289008
+GuestAdditionsFacility_Graphics Mode=0,1516191289008
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 31999
+DEBUG subprocess: Exit status: 0
+ INFO warden: Calling IN action: #<VagrantPlugins::ProviderVirtualBox::Action::CheckAccessible:0x0000000006e5c328>
+ INFO subprocess: Starting process: ["C:/Program Files/Oracle/VirtualBox/VBoxManage.exe", "showvminfo", "4d41e0d8-376f-46ef-8f94-7fbd96ca1ace", "--machinereadable"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: name="***** Homestead"
+groups="/"
+ostype="Ubuntu (64-bit)"
+UUID="4d41e0d8-376f-46ef-8f94-7fbd96ca1ace"
+CfgFile="E:\\SlowVMs\\VirtualBox\\***** Homestead\\***** Homestead.vbox"
+SnapFldr="E:\\SlowVMs\\VirtualBox\\***** Homestead\\Snapshots"
+LogFldr="E:\\SlowVMs\\VirtualBox\\***** Homestead\\Logs"
+hardwareuuid="4d41e0d8-376f-46ef-8f94-7fbd96ca1ace"
+memory=6096
+pagefusion="off"
+vram=8
+cpuexecutioncap=100
+hpet="off"
+chipset="piix3"
+firmware="BIOS"
+cpus=8
+pae="on"
+longmode="on"
+triplefaultreset="off"
+apic="on"
+x2apic="on"
+cpuid-portability-level=0
+bootmenu="messageandmenu"
+boot1="disk"
+boot2="dvd"
+boot3="none"
+boot4="none"
+acpi="on"
+ioapic="on"
+biosapic="apic"
+biossystemtimeoffset=0
+rtcuseutc="on"
+hwvirtex="on"
+nestedpaging="on"
+largepages="on"
+vtxvpid="on"
+vtxux="on"
+paravirtprovider="default"
+effparavirtprovider="kvm"
+VMState="running"
+VMStateChangeTime="2018-01-17T12:14:32.192000000"
+monitorcount=1
+accelerate3d="off"
+accelerate2dvideo="off"
+teleporterenabled="off"
+teleporterport=0
+teleporteraddress=""
+teleporterpassword=""
+tracing-enabled="off"
+tracing-allow-vm-access="off"
+tracing-config=""
+autostart-enabled="off"
+autostart-delay=0
+defaultfrontend=""
+storagecontrollername0="IDE Controller"
+storagecontrollertype0="PIIX4"
+storagecontrollerinstance0="0"
+storagecontrollermaxportcount0="2"
+storagecontrollerportcount0="2"
+storagecontrollerbootable0="on"
+storagecontrollername1="SATA Controller"
+storagecontrollertype1="IntelAhci"
+storagecontrollerinstance1="0"
+storagecontrollermaxportcount1="30"
+storagecontrollerportcount1="1"
+storagecontrollerbootable1="on"
+"IDE Controller-0-0"="none"
+"IDE Controller-0-1"="none"
+"IDE Controller-1-0"="none"
+"IDE Controller-1-1"="none"
+"SATA Controller-0-0"="E:\SlowVMs\VirtualBox\***** Homestead\box-disk1.vmdk"
+"SATA Controller-ImageUUID-0-0"="42b59a12-e0d0-48f5-9cff-165734db558b"
+natnet1="nat"
+macaddress1="080027C30A85"
+cableconnected1="on"
+nic1="nat"
+nictype1="82540EM"
+nicspeed1="0"
+mtu="0"
+sockSnd="64"
+sockRcv="64"
+tcpWndSnd="64"
+tcpWndRcv="64"
+Forwarding(0)="ssh,tcp,127.0.0.1,2222,,22"
+Forwarding(1)="tcp27017,tcp,,27017,,27017"
+Forwarding(2)="tcp33060,tcp,,33060,,3306"
+Forwarding(3)="tcp44300,tcp,,44300,,443"
+Forwarding(4)="tcp54320,tcp,,54320,,5432"
+Forwarding(5)="tcp8000,tcp,,8000,,80"
+Forwarding(6)="tcp8025,tcp,,8025,,8025"
+hostonlyadapter2="VirtualBox Host-Only Ethernet Adapter #2"
+macaddress2="080027D9C3F1"
+cableconnected2="on"
+nic2="hostonly"
+nictype2="82540EM"
+nicspeed2="0"
+nic3="none"
+nic4="none"
+nic5="none"
+nic6="none"
+nic7="none"
+nic8="none"
+hidpointing="ps2mouse"
+hidkeyboard="ps2kbd"
+uart1="off"
+uart2="off"
+uart3="off"
+uart4="off"
+lpt1="off"
+lpt2="off"
+audio="dsound"
+audio_in="true"
+audio_out="true"
+clipboard="disabled"
+draganddrop="disabled"
+SessionName="headless"
+VideoMode="800,600,0"@0,0 2
+vrde="on"
+vrdeport=-1
+vrdeports="5986"
+vrdeaddress="127.0.0.1"
+vrdeauthtype="null"
+vrdemulticon="off"
+vrdereusecon="off"
+vrdevideochannel="off"
+usb="off"
+ehci="off"
+xhci="off"
+SharedFolderNameMachineMapping1="vagrant"
+SharedFolderPathMachineMapping1="\\?\D:\code\Homestead"
+VRDEActiveConnection="off"
+VRDEClients=0
+videocap="off"
+videocapscreens=0
+videocapfile="E:\SlowVMs\VirtualBox\***** Homestead\***** Homestead.webm"
+videocapres=1024x768
+videocaprate=512
+videocapfps=25
+videocapopts=
+GuestMemoryBalloon=0
+GuestOSType="Linux26_64"
+GuestAdditionsRunLevel=2
+GuestAdditionsVersion="5.1.10 r112026"
+GuestAdditionsFacility_VirtualBox Base Driver=50,1516191289008
+GuestAdditionsFacility_VirtualBox System Service=50,1516191302021
+GuestAdditionsFacility_Seamless Mode=0,1516191289008
+GuestAdditionsFacility_Graphics Mode=0,1516191289008
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 0
+ INFO warden: Calling IN action: #<VagrantPlugins::ProviderVirtualBox::Action::CheckRunning:0x0000000006e5c300>
+ INFO subprocess: Starting process: ["C:/Program Files/Oracle/VirtualBox/VBoxManage.exe", "showvminfo", "4d41e0d8-376f-46ef-8f94-7fbd96ca1ace", "--machinereadable"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: name="***** Homestead"
+groups="/"
+ostype="Ubuntu (64-bit)"
+UUID="4d41e0d8-376f-46ef-8f94-7fbd96ca1ace"
+CfgFile="E:\\SlowVMs\\VirtualBox\\***** Homestead\\***** Homestead.vbox"
+SnapFldr="E:\\SlowVMs\\VirtualBox\\***** Homestead\\Snapshots"
+LogFldr="E:\\SlowVMs\\VirtualBox\\***** Homestead\\Logs"
+hardwareuuid="4d41e0d8-376f-46ef-8f94-7fbd96ca1ace"
+memory=6096
+pagefusion="off"
+vram=8
+cpuexecutioncap=100
+hpet="off"
+chipset="piix3"
+firmware="BIOS"
+cpus=8
+pae="on"
+longmode="on"
+triplefaultreset="off"
+apic="on"
+x2apic="on"
+cpuid-portability-level=0
+bootmenu="messageandmenu"
+boot1="disk"
+boot2="dvd"
+boot3="none"
+boot4="none"
+acpi="on"
+ioapic="on"
+biosapic="apic"
+biossystemtimeoffset=0
+rtcuseutc="on"
+hwvirtex="on"
+nestedpaging="on"
+largepages="on"
+vtxvpid="on"
+vtxux="on"
+paravirtprovider="default"
+effparavirtprovider="kvm"
+VMState="running"
+VMStateChangeTime="2018-01-17T12:14:32.192000000"
+monitorcount=1
+accelerate3d="off"
+accelerate2dvideo="off"
+teleporterenabled="off"
+teleporterport=0
+teleporteraddress=""
+teleporterpassword=""
+tracing-enabled="off"
+tracing-allow-vm-access="off"
+tracing-config=""
+autostart-enabled="off"
+autostart-delay=0
+defaultfrontend=""
+storagecontrollername0="IDE Controller"
+storagecontrollertype0="PIIX4"
+storagecontrollerinstance0="0"
+storagecontrollermaxportcount0="2"
+storagecontrollerportcount0="2"
+storagecontrollerbootable0="on"
+storagecontrollername1="SATA Controller"
+storagecontrollertype1="IntelAhci"
+storagecontrollerinstance1="0"
+storagecontrollermaxportcount1="30"
+storagecontrollerportcount1="1"
+storagecontrollerbootable1="on"
+"IDE Controller-0-0"="none"
+"IDE Controller-0-1"="none"
+"IDE Controller-1-0"="none"
+"IDE Controller-1-1"="none"
+"SATA Controller-0-0"="E:\SlowVMs\VirtualBox\***** Homestead\box-disk1.vmdk"
+"SATA Controller-ImageUUID-0-0"="42b59a12-e0d0-48f5-9cff-165734db558b"
+natnet1="nat"
+macaddress1="080027C30A85"
+cableconnected1="on"
+nic1="nat"
+nictype1="82540EM"
+nicspeed1="0"
+mtu="0"
+sockSnd="64"
+sockRcv="64"
+tcpWndSnd="64"
+tcpWndRcv="64"
+Forwarding(0)="ssh,tcp,127.0.0.1,2222,,22"
+Forwarding(1)="tcp27017,tcp,,27017,,27017"
+Forwarding(2)="tcp33060,tcp,,33060,,3306"
+Forwarding(3)="tcp44300,tcp,,44300,,443"
+Forwarding(4)="tcp54320,tcp,,54320,,5432"
+Forwarding(5)="tcp8000,tcp,,8000,,80"
+Forwarding(6)="tcp8025,tcp,,8025,,8025"
+hostonlyadapter2="VirtualBox Host-Only Ethernet Adapter #2"
+macaddress2="080027D9C3F1"
+cableconnected2="on"
+nic2="hostonly"
+nictype2="82540EM"
+nicspeed2="0"
+nic3="none"
+nic4="none"
+nic5="none"
+nic6="none"
+nic7="none"
+nic8="none"
+hidpointing="ps2mouse"
+hidkeyboard="ps2kbd"
+uart1="off"
+uart2="off"
+uart3="off"
+uart4="off"
+lpt1="off"
+lpt2="off"
+audio="dsound"
+audio_in="true"
+audio_out="true"
+clipboard="disabled"
+draganddrop="disabled"
+SessionName="headless"
+VideoMode="800,600,0"@0,0 2
+vrde="on"
+vrdeport=-1
+vrdeports="5986"
+vrdeaddress="127.0.0.1"
+vrdeauthtype="null"
+vrdemulticon="off"
+vrdereusecon="off"
+vrdevideochannel="off"
+usb="off"
+ehci="off"
+xhci="off"
+SharedFolderNameMachineMapping1="vagrant"
+SharedFolderPathMachineMapping1="\\?\D:\code\Homestead"
+VRDEActiveConnection="off"
+VRDEClients=0
+videocap="off"
+videocapscreens=0
+videocapfile="E:\SlowVMs\VirtualBox\***** Homestead\***** Homestead.webm"
+videocapres=1024x768
+videocaprate=512
+videocapfps=25
+videocapopts=
+GuestMemoryBalloon=0
+GuestOSType="Linux26_64"
+GuestAdditionsRunLevel=2
+GuestAdditionsVersion="5.1.10 r112026"
+GuestAdditionsFacility_VirtualBox Base Driver=50,1516191289008
+GuestAdditionsFacility_VirtualBox System Service=50,1516191302021
+GuestAdditionsFacility_Seamless Mode=0,1516191289008
+GuestAdditionsFacility_Graphics Mode=0,1516191289008
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 0
+ INFO warden: Calling IN action: #<Vagrant::Action::Builtin::SSHExec:0x0000000006e5c2d8>
+ INFO subprocess: Starting process: ["C:/Program Files/Oracle/VirtualBox/VBoxManage.exe", "showvminfo", "4d41e0d8-376f-46ef-8f94-7fbd96ca1ace", "--machinereadable"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: name="***** Homestead"
+groups="/"
+ostype="Ubuntu (64-bit)"
+UUID="4d41e0d8-376f-46ef-8f94-7fbd96ca1ace"
+CfgFile="E:\\SlowVMs\\VirtualBox\\***** Homestead\\***** Homestead.vbox"
+SnapFldr="E:\\SlowVMs\\VirtualBox\\***** Homestead\\Snapshots"
+LogFldr="E:\\SlowVMs\\VirtualBox\\***** Homestead\\Logs"
+hardwareuuid="4d41e0d8-376f-46ef-8f94-7fbd96ca1ace"
+memory=6096
+pagefusion="off"
+vram=8
+cpuexecutioncap=100
+hpet="off"
+chipset="piix3"
+firmware="BIOS"
+cpus=8
+pae="on"
+longmode="on"
+triplefaultreset="off"
+apic="on"
+x2apic="on"
+cpuid-portability-level=0
+bootmenu="messageandmenu"
+boot1="disk"
+boot2="dvd"
+boot3="none"
+boot4="none"
+acpi="on"
+ioapic="on"
+biosapic="apic"
+biossystemtimeoffset=0
+rtcuseutc="on"
+hwvirtex="on"
+nestedpaging="on"
+largepages="on"
+vtxvpid="on"
+vtxux="on"
+paravirtprovider="default"
+effparavirtprovider="kvm"
+VMState="running"
+VMStateChangeTime="2018-01-17T12:14:32.192000000"
+monitorcount=1
+accelerate3d="off"
+accelerate2dvideo="off"
+teleporterenabled="off"
+teleporterport=0
+teleporteraddress=""
+teleporterpassword=""
+tracing-enabled="off"
+tracing-allow-vm-access="off"
+tracing-config=""
+autostart-enabled="off"
+autostart-delay=0
+defaultfrontend=""
+storagecontrollername0="IDE Controller"
+storagecontrollertype0="PIIX4"
+storagecontrollerinstance0="0"
+storagecontrollermaxportcount0="2"
+storagecontrollerportcount0="2"
+storagecontrollerbootable0="on"
+storagecontrollername1="SATA Controller"
+storagecontrollertype1="IntelAhci"
+storagecontrollerinstance1="0"
+storagecontrollermaxportcount1="30"
+storagecontrollerportcount1="1"
+storagecontrollerbootable1="on"
+"IDE Controller-0-0"="none"
+"IDE Controller-0-1"="none"
+"IDE Controller-1-0"="none"
+"IDE Controller-1-1"="none"
+"SATA Controller-0-0"="E:\SlowVMs\VirtualBox\***** Homestead\box-disk1.vmdk"
+"SATA Controller-ImageUUID-0-0"="42b59a12-e0d0-48f5-9cff-165734db558b"
+natnet1="nat"
+macaddress1="080027C30A85"
+cableconnected1="on"
+nic1="nat"
+nictype1="82540EM"
+nicspeed1="0"
+mtu="0"
+sockSnd="64"
+sockRcv="64"
+tcpWndSnd="64"
+tcpWndRcv="64"
+Forwarding(0)="ssh,tcp,127.0.0.1,2222,,22"
+Forwarding(1)="tcp27017,tcp,,27017,,27017"
+Forwarding(2)="tcp33060,tcp,,33060,,3306"
+Forwarding(3)="tcp44300,tcp,,44300,,443"
+Forwarding(4)="tcp54320,tcp,,54320,,5432"
+Forwarding(5)="tcp8000,tcp,,8000,,80"
+Forwarding(6)="tcp8025,tcp,,8025,,8025"
+hostonlyadapter2="VirtualBox Host-Only Ethernet Adapter #2"
+macaddress2="080027D9C3F1"
+cableconnected2="on"
+nic2="hostonly"
+nictype2="82540EM"
+nicspeed2="0"
+nic3="none"
+nic4="none"
+nic5="none"
+nic6="none"
+nic7="none"
+nic8="none"
+hidpointing="ps2mouse"
+hidkeyboard="ps2kbd"
+uart1="off"
+uart2="off"
+uart3="off"
+uart4="off"
+lpt1="off"
+lpt2="off"
+audio="dsound"
+audio_in="true"
+audio_out="true"
+clipboard="disabled"
+draganddrop="disabled"
+SessionName="headless"
+VideoMode="800,600,0"@0,0 2
+vrde="on"
+vrdeport=-1
+vrdeports="5986"
+vrdeaddress="127.0.0.1"
+vrdeauthtype="null"
+vrdemulticon="off"
+vrdereusecon="off"
+vrdevideochannel="off"
+usb="off"
+ehci="off"
+xhci="off"
+SharedFolderNameMachineMapping1="vagrant"
+SharedFolderPathMachineMapping1="\\?\D:\code\Homestead"
+VRDEActiveConnection="off"
+VRDEClients=0
+videocap="off"
+videocapscreens=0
+videocapfile="E:\SlowVMs\VirtualBox\***** Homestead\***** Homestead.webm"
+videocapres=1024x768
+videocaprate=512
+videocapfps=25
+videocapopts=
+GuestMemoryBalloon=0
+GuestOSType="Linux26_64"
+GuestAdditionsRunLevel=2
+GuestAdditionsVersion="5.1.10 r112026"
+GuestAdditionsFacility_VirtualBox Base Driver=50,1516191289008
+GuestAdditionsFacility_VirtualBox System Service=50,1516191302021
+GuestAdditionsFacility_Seamless Mode=0,1516191289008
+GuestAdditionsFacility_Graphics Mode=0,1516191289008
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 0
+DEBUG virtualbox_5_2: Searching for SSH port: 22
+DEBUG virtualbox_5_2: read_forward_ports: uuid=4d41e0d8-376f-46ef-8f94-7fbd96ca1ace active_only=false
+ INFO subprocess: Starting process: ["C:/Program Files/Oracle/VirtualBox/VBoxManage.exe", "showvminfo", "4d41e0d8-376f-46ef-8f94-7fbd96ca1ace", "--machinereadable"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stdout: name="***** Homestead"
+groups="/"
+ostype="Ubuntu (64-bit)"
+UUID="4d41e0d8-376f-46ef-8f94-7fbd96ca1ace"
+CfgFile="E:\\SlowVMs\\VirtualBox\\***** Homestead\\***** Homestead.vbox"
+SnapFldr="E:\\SlowVMs\\VirtualBox\\***** Homestead\\Snapshots"
+LogFldr="E:\\SlowVMs\\VirtualBox\\***** Homestead\\Logs"
+hardwareuuid="4d41e0d8-376f-46ef-8f94-7fbd96ca1ace"
+memory=6096
+pagefusion="off"
+vram=8
+cpuexecutioncap=100
+hpet="off"
+chipset="piix3"
+firmware="BIOS"
+cpus=8
+pae="on"
+longmode="on"
+triplefaultreset="off"
+apic="on"
+x2apic="on"
+cpuid-portability-level=0
+bootmenu="messageandmenu"
+boot1="disk"
+boot2="dvd"
+boot3="none"
+boot4="none"
+acpi="on"
+ioapic="on"
+biosapic="apic"
+biossystemtimeoffset=0
+rtcuseutc="on"
+hwvirtex="on"
+nestedpaging="on"
+largepages="on"
+vtxvpid="on"
+vtxux="on"
+paravirtprovider="default"
+effparavirtprovider="kvm"
+VMState="running"
+VMStateChangeTime="2018-01-17T12:14:32.192000000"
+monitorcount=1
+accelerate3d="off"
+accelerate2dvideo="off"
+teleporterenabled="off"
+teleporterport=0
+teleporteraddress=""
+teleporterpassword=""
+tracing-enabled="off"
+tracing-allow-vm-access="off"
+tracing-config=""
+autostart-enabled="off"
+autostart-delay=0
+defaultfrontend=""
+storagecontrollername0="IDE Controller"
+storagecontrollertype0="PIIX4"
+storagecontrollerinstance0="0"
+storagecontrollermaxportcount0="2"
+storagecontrollerportcount0="2"
+storagecontrollerbootable0="on"
+storagecontrollername1="SATA Controller"
+storagecontrollertype1="IntelAhci"
+storagecontrollerinstance1="0"
+storagecontrollermaxportcount1="30"
+storagecontrollerportcount1="1"
+storagecontrollerbootable1="on"
+"IDE Controller-0-0"="none"
+"IDE Controller-0-1"="none"
+"IDE Controller-1-0"="none"
+"IDE Controller-1-1"="none"
+"SATA Controller-0-0"="E:\SlowVMs\VirtualBox\***** Homestead\box-disk1.vmdk"
+"SATA Controller-ImageUUID-0-0"="42b59a12-e0d0-48f5-9cff-165734db558b"
+natnet1="nat"
+macaddress1="080027C30A85"
+cableconnected1="on"
+nic1="nat"
+nictype1="82540EM"
+nicspeed1="0"
+mtu="0"
+sockSnd="64"
+sockRcv="64"
+tcpWndSnd="64"
+tcpWndRcv="64"
+Forwarding(0)="ssh,tcp,127.0.0.1,2222,,22"
+Forwarding(1)="tcp27017,tcp,,27017,,27017"
+Forwarding(2)="tcp33060,tcp,,33060,,3306"
+Forwarding(3)="tcp44300,tcp,,44300,,443"
+Forwarding(4)="tcp54320,tcp,,54320,,5432"
+Forwarding(5)="tcp8000,tcp,,8000,,80"
+Forwarding(6)="tcp8025,tcp,,8025,,8025"
+hostonlyadapter2="VirtualBox Host-Only Ethernet Adapter #2"
+macaddress2="080027D9C3F1"
+cableconnected2="on"
+nic2="hostonly"
+nictype2="82540EM"
+nicspeed2="0"
+nic3="none"
+nic4="none"
+nic5="none"
+nic6="none"
+nic7="none"
+nic8="none"
+hidpointing="ps2mouse"
+hidkeyboard="ps2kbd"
+uart1="off"
+uart2="off"
+uart3="off"
+uart4="off"
+lpt1="off"
+lpt2="off"
+audio="dsound"
+audio_in="true"
+audio_out="true"
+clipboard="disabled"
+draganddrop="disabled"
+SessionName="headless"
+VideoMode="800,600,0"@0,0 2
+vrde="on"
+vrdeport=-1
+vrdeports="5986"
+vrdeaddress="127.0.0.1"
+vrdeauthtype="null"
+vrdemulticon="off"
+vrdereusecon="off"
+vrdevideochannel="off"
+usb="off"
+ehci="off"
+xhci="off"
+SharedFolderNameMachineMapping1="vagrant"
+SharedFolderPathMachineMapping1="\\?\D:\code\Homestead"
+VRDEActiveConnection="off"
+VRDEClients=0
+videocap="off"
+videocapscreens=0
+videocapfile="E:\SlowVMs\VirtualBox\***** Homestead\***** Homestead.webm"
+videocapres=1024x768
+videocaprate=512
+videocapfps=25
+videocapopts=
+GuestMemoryBalloon=0
+GuestOSType="Linux26_64"
+GuestAdditionsRunLevel=2
+GuestAdditionsVersion="5.1.10 r112026"
+GuestAdditionsFacility_VirtualBox Base Driver=50,1516191289008
+GuestAdditionsFacility_VirtualBox System Service=50,1516191302021
+GuestAdditionsFacility_Seamless Mode=0,1516191289008
+GuestAdditionsFacility_Graphics Mode=0,1516191289008
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 0
+DEBUG virtualbox_5_2:   - [1, "ssh", 2222, 22, "127.0.0.1"]
+DEBUG virtualbox_5_2:   - [1, "tcp27017", 27017, 27017, ""]
+DEBUG virtualbox_5_2:   - [1, "tcp33060", 33060, 3306, ""]
+DEBUG virtualbox_5_2:   - [1, "tcp44300", 44300, 443, ""]
+DEBUG virtualbox_5_2:   - [1, "tcp54320", 54320, 5432, ""]
+DEBUG virtualbox_5_2:   - [1, "tcp8000", 8000, 80, ""]
+DEBUG virtualbox_5_2:   - [1, "tcp8025", 8025, 8025, ""]
+ INFO subprocess: Starting process: ["C:\\Program Files\\Git\\usr\\bin/ssh.EXE"]
+ INFO subprocess: Command not in installer, restoring original environment...
+DEBUG subprocess: Selecting on IO
+DEBUG subprocess: stderr: usage: ssh [-1246AaCfGgKkMNnqsTtVvXxYy] [-b bind_address] [-c cipher_spec]
+           [-D [bind_address:]port] [-E log_file] [-e escape_char]
+           [-F configfile] [-I pkcs11] [-i identity_file]
+           [-J [user@]host[:port]] [-L address] [-l login_name] [-m mac_spec]
+           [-O ctl_cmd] [-o option] [-p port] [-Q query_option] [-R address]
+           [-S ctl_path] [-W host:port] [-w local_tun[:remote_tun]]
+           [user@]hostname [command]
+DEBUG subprocess: Waiting for process to exit. Remaining to timeout: 32000
+DEBUG subprocess: Exit status: 255
+ INFO ssh: Invoking SSH: ssh ["vagrant@127.0.0.1", "-p", "2222", "-o", "LogLevel=FATAL", "-o", "Compression=yes", "-o", "DSAAuthentication=yes", "-o", "IdentitiesOnly=yes", "-o", "StrictHostKeyChecking=no", "-o", "UserKnownHostsFile=/dev/null", "-o", "IdentityFile=\"D:/code/Homestead/.vagrant/machines/***** Homestead/virtualbox/private_key\"", "-o", "ForwardAgent=yes"]
+DEBUG safe_exec: Converting command and arguments to common UTF-8 encoding for exec.
+DEBUG safe_exec: Command: `"ssh"` Args: `["vagrant@127.0.0.1", "-p", "2222", "-o", "LogLevel=FATAL", "-o", "Compression=yes", "-o", "DSAAuthentication=yes", "-o", "IdentitiesOnly=yes", "-o", "StrictHostKeyChecking=no", "-o", "UserKnownHostsFile=/dev/null", "-o", "IdentityFile=\"D:/code/Homestead/.vagrant/machines/***** Homestead/virtualbox/private_key\"", "-o", "ForwardAgent=yes"]`
+DEBUG safe_exec: Converted - Command: `"ssh"` Args: `["vagrant@127.0.0.1", "-p", "2222", "-o", "LogLevel=FATAL", "-o", "Compression=yes", "-o", "DSAAuthentication=yes", "-o", "IdentitiesOnly=yes", "-o", "StrictHostKeyChecking=no", "-o", "UserKnownHostsFile=/dev/null", "-o", "IdentityFile=\"D:/code/Homestead/.vagrant/machines/***** Homestead/virtualbox/private_key\"", "-o", "ForwardAgent=yes"]`
